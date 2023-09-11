@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-
+//creating a test1 class
 public class Test1 
 
 {
@@ -12,7 +12,7 @@ public class Test1
 		return fname;
 	}
 
-
+//creating getters and setters
 	public void setFname(String fname) {
 		this.fname = fname;
 	}

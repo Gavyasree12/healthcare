@@ -4,11 +4,12 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-
+//Creating a class called Doctortest
 public class Doctortest {
 public Doctortest() {
 		super();
 	}
+	//creating getters and setters
 public String getFname() {
 		return fname;
 	}

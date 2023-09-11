@@ -13,9 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
-/**
- * Servlet implementation class Inpatserv
- */
+//Httpservlet class
 @WebServlet("/Inpatserv")
 public class Inpatserv extends HttpServlet {
 	private static final long serialVersionUID = 1L;

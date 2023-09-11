@@ -4,6 +4,7 @@ public class Patientclass {
 	public Patientclass()
 	{
 	}
+	//defining the variables
 	String fname;
 	String lname;
 	String dob;
@@ -12,7 +13,7 @@ public class Patientclass {
 	String bg;
 	String email;
 	String addr;
-	
+	// getters and setters
 	public String getFname() {
 		return fname;
 	}
