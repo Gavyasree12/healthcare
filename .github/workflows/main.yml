@@ -1,4 +1,4 @@
-name: Java Spring CI
+name: Java Spring CI test
 
 on:
   push:
